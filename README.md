@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @H0RSESH0E 🧲
-- 👀 I’m interested in almost everything (trying to learn about horror movies atm)
+- 👀 I’m interested in almost everything (working on Bret Wienstien's Plan B atm)
 - 🌱 I’m currently becoming a Full Stack developer
 - 💞️ I’m looking to collaborate on survivorship and meaning
 - 📫 How to reach me [(check back later)]
