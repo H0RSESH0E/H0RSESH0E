@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm H0RSESH0E <span><img src="https://github.com/H0RSESH0E.png" alt="user avatar" width="40"/></span></h1>
-<h3 align="center">I’m a full-stack web developer leveraging an interdisciplinary background to conceive and implement innovative applications.</h3>
-&nbsp;   
-
+<h3 align="center">I’m a full-stack web developer</h3>
+<h3 align="center">leveraging an interdisciplinary background</h3>
+<h3 align="center">to conceive and implement innovative applications.</h3>
+<br>
+<p align="center"><a href="mailto:dcpb777@gmail.com">dcpb777@gmail.com</a></p>
+<br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=h0rsesh0e&show_icons=true&locale=en" alt="h0rsesh0e" /></p>
 
 &nbsp;  
