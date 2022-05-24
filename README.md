@@ -4,7 +4,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/https://dev.to/h0rsesh0e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/h0rsesh0e" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-baron-714370226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-baron-714370226/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/david-baron-web-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-baron-714370226/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17479232/h0rsesh0e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17479232/h0rsesh0e" height="30" width="40" /></a>
 <a href="https://gist.github.com/H0RSESH0E" target="blank"><img align="center" src="https://www.shareicon.net/data/48x48/2015/09/02/94495_gist_384x512.png" alt="https://gist.github.com/H0RSESH0E" height="30" width="40" /></a>
 </p>
@@ -32,5 +32,3 @@
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=h0rsesh0e&show_icons=true&locale=en&layout=compact" alt="h0rsesh0e" /></p>
-
-<span><img src="https://github.com/H0RSESH0E.png" alt="user avatar" width="40"/></span>
