@@ -1,4 +1,4 @@
-<h1 align="center">David Baron <span><img src="https://github.com/H0RSESH0E.png" alt="user avatar" width="40"/></span> full-stack web developer</h1>
+<h1 align="center">David Baron - full-stack web developer</h1>
 
 <p align="center"><a href="mailto:dcpb777@gmail.com">dcpb777@gmail.com</a></p>
 <h3 align="center">Connect with me:</h3>
@@ -32,6 +32,5 @@
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=h0rsesh0e&show_icons=true&locale=en&layout=compact" alt="h0rsesh0e" /></p>
-
 
 
